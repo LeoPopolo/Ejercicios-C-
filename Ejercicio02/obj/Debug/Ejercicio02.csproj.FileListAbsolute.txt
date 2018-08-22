@@ -1,0 +1,7 @@
+E:\C#\Popolo.Leonardo.2A\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+E:\C#\Popolo.Leonardo.2A\Ejercicio02\bin\Debug\Ejercicio02.exe
+E:\C#\Popolo.Leonardo.2A\Ejercicio02\bin\Debug\Ejercicio02.pdb
+E:\C#\Popolo.Leonardo.2A\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
+E:\C#\Popolo.Leonardo.2A\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+E:\C#\Popolo.Leonardo.2A\Ejercicio02\obj\Debug\Ejercicio02.exe
+E:\C#\Popolo.Leonardo.2A\Ejercicio02\obj\Debug\Ejercicio02.pdb
